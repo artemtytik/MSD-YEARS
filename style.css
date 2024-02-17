@@ -1,0 +1,29 @@
+h1 {
+    padding: 5px;
+    font-size: 50px;
+    text-align: center;
+}
+header {
+    background-color: blue;
+    color: whitesmoke;
+}
+tr {
+    border: blue solid 2px;
+}
+
+.first {
+  border-bottom: blue dashed 4px;  
+  border-top: 1px solid white;
+}
+
+td {
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 20px;
+    border-bottom: blue solid 2px;
+    border-left: double 10px blue;
+    border-right: double 10px blue;
+}
